@@ -3,6 +3,11 @@
 ## Overview
 This project is part of my internship at Prodigy Infotech, where I developed a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model achieves high accuracy by leveraging TensorFlow and Keras.
 
+##DATASET
+
+https://www.kaggle.com/c/dogs-vs-cats/data
+
+
 ## Technical Implementation
 
 - **Frameworks Used:** TensorFlow, Keras
